@@ -1,0 +1,22 @@
+{
+  "name": "dexp",
+  "version": "1.0.0",
+  "description": "Handson for NPM publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitijtripathi/dexphandson.git"
+  },
+  "keywords": [
+    "handson"
+  ],
+  "author": "Kshitij Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitijtripathi/dexphandson/issues"
+  },
+  "homepage": "https://github.com/kshitijtripathi/dexphandson#readme"
+}
